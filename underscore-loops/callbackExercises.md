@@ -1,6 +1,6 @@
 ##Callback exercises
 
-note: https://jsbin.com/mavage/edit?js,console,output can be used execute underscore methods.
+NOTE: https://jsbin.com/mavage/edit?js,console,output can be used execute underscore methods. You may also go to http://underscorejs.org/ and run your code in your browser's console.
 
 1. Use _.each to loop through an array and console.log() all the values. Now use it to console.log() the indices. How would this be different if you were looping through an object?
 
